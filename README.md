@@ -6,8 +6,11 @@
 shown on a grid on a “home” screen. The list must show:
 
  Small picture
+
  Full name
+
  City
+
  Country
 
 * When users tap on a thumbnail on the grid, they’re taken into a new screen in which the large image
@@ -26,7 +29,10 @@ app: responsive design, transition animations, visual response, and so on.
 ## About the technology to use:
 
  You must use HTML, CSS and Java Script.
+
  You must use one of the following java script framework/libraries Angular, VUE, React. (do not
 use Vainilla and JQuery)
+
  The page/app should be easily accessible (local server, or uploaded somewhere)
+
  Upload your code to a repo so we can review it once you finish.
