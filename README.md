@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# Code challenge!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Create a simple page using the Random User API.
 
-## Available Scripts
+* The app/page should have a Master/Detail flow in which at least 50 profile image thumbnails are
+shown on a grid on a “home” screen. The list must show:
 
-In the project directory, you can run:
+ Small picture
+ Full name
+ City
+ Country
 
-### `npm start`
+* When users tap on a thumbnail on the grid, they’re taken into a new screen in which the large image
+is shown on the top of the screen, and some basic user data is listed below: username, first name, last
+name, and email address, etc (see the API results).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Here is the API documentation: https://randomuser.me/documentation
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Some tips:
 
-### `npm test`
+* You can implement some kind of pagination or “infinite scroll” on the grid but it’s not mandatory.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* If you have some extra time or you just want to show off, you can add some bells and whistles to your
+app: responsive design, transition animations, visual response, and so on.
 
-### `npm run build`
+## About the technology to use:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ You must use HTML, CSS and Java Script.
+ You must use one of the following java script framework/libraries Angular, VUE, React. (do not
+use Vainilla and JQuery)
+ The page/app should be easily accessible (local server, or uploaded somewhere)
+ Upload your code to a repo so we can review it once you finish.
