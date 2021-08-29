@@ -1,0 +1,9 @@
+.container{
+    align-items: center;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.836);
+    color: rgb(255, 255, 255);
+    border-color:rgb(155, 95, 212);
+    box-shadow:0 0 10px rgb(255, 255, 255);
+}
+
