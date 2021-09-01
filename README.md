@@ -1,4 +1,4 @@
-# Code challenge
+# CODE CHALLENGE
 
 * The app/page  have a Master/Detail flow in which at least 50 profile image thumbnails are
 shown on a grid on a “home” screen. The list must show:
